@@ -27,15 +27,7 @@ h1{
     margin:20px;
     border-radius: 50%;
 }
-h2{
-    background-color: #d1d5da;
-    width: 200px;
-    height: 200px;
-    box-shadow:2px 5px 15px black;
-    margin:20px;
-    border-radius: 50%;
 
-}
 .bottombar{
     background:	 #4775d1;
     width: 100%;
